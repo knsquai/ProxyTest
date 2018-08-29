@@ -13,10 +13,10 @@ import org.apache.http.impl.client.HttpClientBuilder;
 
 public class ProxyChecker {
 
-	public static final String HOST = "35.200.107.180";
+	public static final String HOST = "35.200.88.224";
 	public static final int PORT = 8080;
 	public static final String ID = "user1";
-	public static final String PW = "hogehoge1";
+	public static final String PW = "hogehoge";
 	public static final String URL = "https://www.yahoo.co.jp/";
 
 	public static void main(String[] args) {
